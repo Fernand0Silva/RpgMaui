@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppRpgEtec.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,4 +21,5 @@ namespace AppRpgEtec.Models
         public double? Longitude { get; set; }
 
     }
+   
 }
